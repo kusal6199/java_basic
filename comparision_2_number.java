@@ -17,9 +17,5 @@ public class comparision_2_number {
             System.out.print(b);
             System.out.print(" is grater");
         }
-
-
-
     }
-    
 }
