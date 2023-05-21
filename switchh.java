@@ -5,8 +5,13 @@ public class switchh {
         int menu;
         double p,b,h;
         float r,area,perimeter;
+        while (true) {
+            
+        
         System.out.println("chose the number\n1. for pythogorous\n2. for area of circle\n3. for perimeter of circle\n4. for exit: ");
         menu=sc.nextInt();
+       
+
         switch (menu) {
             case 1:
                 System.out.print("for pythagorous therom\nenter value of p and b respectively: ");
@@ -35,6 +40,9 @@ public class switchh {
                 System.out.println("invalid number passed");
                 break;
         }
-        sc.close();
+    }
+    
+    
+        // sc.close();
     }
 }
