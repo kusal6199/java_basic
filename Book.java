@@ -18,16 +18,16 @@ public class Book {
     }
 
     void view_details(){
-        System.out.println("the employee details");
+        System.out.println("the book details details");
         System.out.println("Book Id: "+ book_id);
         System.out.println("Book title: "+ title);
         System.out.println("Book price: "+ price);
     }
 
-    void change_price(double newprice)
-    {
-        System.out.println("enter new price: ");
-        newprice=sc.nextDouble();
-        price=newprice;
-    }
+    // void change_price(double newprice)
+    // {
+    //     System.out.println("enter new price: ");
+    //     newprice=sc.nextDouble();
+    //     price=newprice;
+    // }
 }
