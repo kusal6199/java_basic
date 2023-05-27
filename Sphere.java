@@ -6,8 +6,8 @@ public class Sphere {
 
     void read_radius(){
         System.out.println("enter radius: ");
-        this.radius=sc.nextDouble();
-        if (this.radius<0) {
+        radius=sc.nextDouble();
+        if (radius<0) {
             System.out.println("radious cant be negative");
             System.exit(0);
         }
