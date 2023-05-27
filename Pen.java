@@ -1,12 +1,12 @@
 class Penn {
-    String color="black";
-    String type="ball";
-    double price=10.2;
+    String color;
+    String type;
+    double price;
 
     void print_details(){
-        System.out.print("Color: "+color+"\n");
-        System.out.print("Type: "+type+"\n");
-        System.out.print("Price: "+price+"\n");
+        System.out.print("Color: "+this.color+"\n");
+        System.out.print("Type: "+this.type+"\n");
+        System.out.print("Price: "+this.price+"\n");
     }
 
     void write(){
@@ -18,8 +18,20 @@ public class Pen{
 
     public static void main(String[] args) {
         Penn pen1 = new Penn();
+        pen1.color="red";
+        pen1.type="ball";
+        pen1.price=15.00;
         pen1.print_details();
         System.out.println();
         pen1.write();
+
+        Penn pen2= new Penn();
+        pen2.color="black";
+        pen2.type="gell";
+        pen2.price=20.00;
+        pen2.print_details();
+        System.out.println();
+        pen2.write();
+
     }
 }
