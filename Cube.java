@@ -13,7 +13,8 @@ public class Cube {
     double calcullate_volume(){
         return Math.pow(this.length, 3);
     }
-    double cost(double rate){
+    double cost( final double rate){
+        // rate= 70;
         return (6*this.length*this.length*rate);
 
     }
