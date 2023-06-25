@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class array_search
 {
-    public static void main(String[] args) 
+    public static void main(_String[] args) 
     {
         int n, x, flag = 0, i = 0;
         Scanner s = new Scanner(System.in);

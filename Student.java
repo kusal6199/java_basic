@@ -1,5 +1,5 @@
 class Student_info {
-    String name;
+    _String name;
     int age;
 
     public void printInfo() {
@@ -8,7 +8,7 @@ class Student_info {
     }
 }
 public class Student{
-public static void main(String[] args) {
+public static void main(_String[] args) {
     Student_info s1 = new Student_info();
     s1.name="kushal";
     s1.age=21;

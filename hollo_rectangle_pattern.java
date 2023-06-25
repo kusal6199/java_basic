@@ -1,6 +1,6 @@
 import java.util.*;
 public class hollo_rectangle_pattern {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         int i,j;
         int m=4,n=5;
         Scanner sc = new Scanner(System.in);

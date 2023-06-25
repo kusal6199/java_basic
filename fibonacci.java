@@ -10,7 +10,7 @@ public class fibonacci {
             n2=n3;
         } 
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner (System.in);
         int n;
         System.out.println("enter no of terms");

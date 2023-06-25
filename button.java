@@ -1,6 +1,6 @@
 import java.util.*;
 public class button {
-    public static void main(String args[]){
+    public static void main(_String args[]){
         Scanner kushal = new Scanner(System.in);
         System.out.print("enter number (1,2 or 3 only): ");
         int buton = kushal.nextInt();

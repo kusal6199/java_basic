@@ -1,6 +1,6 @@
 import java.util.*;
 public class loop_print {
-    public static void main(String args[]){
+    public static void main(_String args[]){
         Scanner sc = new Scanner(System.in);
         int i,num;
         System.out.print("enter the limit to print: ");

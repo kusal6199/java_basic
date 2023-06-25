@@ -5,7 +5,7 @@ public class function_inJAVA {
         return sum;
 
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc =new Scanner(System.in);
         int a,b;
         System.out.print("enter first number: ");

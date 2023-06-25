@@ -1,6 +1,6 @@
 import java.util.*;
 public class array_java {
-    public static void main(String args[]){
+    public static void main(_String args[]){
         Scanner sc = new Scanner(System.in);
         int[] marks= new int[4];//array of 4 subject marks
         int i,total=0;

@@ -1,6 +1,6 @@
 import java.util.*;
 public class conditional_statement {
-   public static void main(String args[]){
+   public static void main(_String args[]){
     Scanner sc= new Scanner(System.in);
     System.out.println("enter the age: ");
     int age =sc.nextInt();

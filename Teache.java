@@ -2,7 +2,7 @@ import java. util.*;
 public class Teache {
 
     int id;
-    String full_name;
+    _String full_name;
     double slary;
     // double rate;
     Scanner sc =new Scanner(System.in);

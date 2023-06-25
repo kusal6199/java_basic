@@ -3,8 +3,8 @@ public class static_practice {
     Scanner sc = new Scanner (System.in);
     int id=12;
     double salry=19999000;
-    String name="kushal kandel";
-   static String company="softwarica";
+    _String name="kushal kandel";
+   static _String company="softwarica";
 
 //    void read_data()
 //    {

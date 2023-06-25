@@ -1,5 +1,5 @@
 public class Book_test {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Book b1=new Book();
         b1.read_book_details();
         System.out.println();

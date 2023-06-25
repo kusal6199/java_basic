@@ -1,5 +1,5 @@
 public class reverse_string_recursion {
-    public static void printRev(String a,int indx){
+    public static void printRev(_String a,int indx){
         if (indx==0) {
             System.out.println(a.charAt(0));
             return;
@@ -8,8 +8,8 @@ public class reverse_string_recursion {
         printRev(a, indx-1);
 
     }
-    public static void main(String[] args) {
-        String a="Kushal";
+    public static void main(_String[] args) {
+        _String a="Kushal";
         printRev(a,a.length()-1);
         
     }

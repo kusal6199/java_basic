@@ -1,7 +1,7 @@
 import java.util.*;
 public class Static_Use {
     int id;
-    String name;
+    _String name;
     double salary;
     static int Company_code;
 

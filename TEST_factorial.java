@@ -1,6 +1,6 @@
 import java.util.*;
 public class TEST_factorial {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
         

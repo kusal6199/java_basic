@@ -1,5 +1,5 @@
 class variables_java{
-    public static void main(String[] args){
+    public static void main(_String[] args){
         int a = 10;
         int b = 20;
         int sum;

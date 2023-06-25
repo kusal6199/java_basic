@@ -8,7 +8,7 @@ public class fibnico_recursion {
            return fibnico(n-1)+fibnico(n-2);
         }
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc= new Scanner(System.in);
         int i;
         System.out.print("enter n term of series: ");

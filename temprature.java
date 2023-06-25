@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class temprature {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("enter the temprature at ferrnheit");
         double fern = sc.nextDouble();

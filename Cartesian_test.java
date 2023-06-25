@@ -1,5 +1,5 @@
 public class Cartesian_test {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Cartesian c = new Cartesian();
         c.getCoordinate();
         System.out.println("distance: "+c.calculate_distance());

@@ -1,6 +1,6 @@
 import java.util.*;
 public class for_loop {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc =new Scanner(System.in);
         int i;
         System.out.print("Enter no. of elements you want in array:");

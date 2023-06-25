@@ -1,6 +1,6 @@
 import java.util.*;
 public class string_reverse {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc=new Scanner(System.in);
         StringBuilder sb = new StringBuilder("kushal");//stringBuilder in java 
 

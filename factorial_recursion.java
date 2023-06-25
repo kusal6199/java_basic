@@ -8,7 +8,7 @@ public class factorial_recursion {
             return n*factorial(n-1);
         }
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
         System.out.print("enter a number for factorial: ");

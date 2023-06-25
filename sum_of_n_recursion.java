@@ -8,7 +8,7 @@ public class sum_of_n_recursion {
             return n+sumToN(n-1);
         }
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
         System.out.print("enter a number upto which u want sum: ");

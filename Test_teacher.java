@@ -1,6 +1,6 @@
 import java.util.*;
 public class Test_teacher {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         double rate;
         Teache t = new Teache();

@@ -1,6 +1,6 @@
 import java.util.*;
 public class bubble_sort {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         int i,j;
         System.out.print("enter array size: ");

@@ -1,11 +1,11 @@
 import java.util.*;
 public class string_predefine_function {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc= new Scanner(System.in);
         int i;
-        String firstName="Kushal";
-        String lastName="Kandel";
-        String fullName=firstName+" "+lastName;
+        _String firstName="Kushal";
+        _String lastName="Kandel";
+        _String fullName=firstName+" "+lastName;
         System.out.println("the length of string is");
         System.out.println(fullName.length());//string length function
 
@@ -19,8 +19,8 @@ public class string_predefine_function {
 
 
         //string comparision function
-        String str1="apple";
-        String str2="apple";
+        _String str1="apple";
+        _String str2="apple";
         if (str1.compareTo(str2)==0) {
             System.out.println("string are equal");
             
@@ -29,8 +29,8 @@ public class string_predefine_function {
             System.out.println("string are not equal");
         }
         System.out.println();
-        String a1="Applee";
-        String a2="Kandel";
+        _String a1="Applee";
+        _String a2="Kandel";
         if (a1.compareTo(a2)>0) {
             System.out.println(a1+" is grater");//string are compared according to their alphabate position eg. 'A' is smaller then 'Z'  and 'a' is grater then 'Z'
         }

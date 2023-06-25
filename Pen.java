@@ -1,6 +1,6 @@
 class Penn {
-    String color;
-    String type;
+    _String color;
+    _String type;
     double price;
 
     void print_details(){
@@ -16,7 +16,7 @@ class Penn {
 
 public class Pen{
 
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Penn pen1 = new Penn();
         pen1.color="red";
         pen1.type="ball";

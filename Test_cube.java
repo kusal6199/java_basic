@@ -1,6 +1,6 @@
 import java.util.*;
 public class Test_cube {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         double measurement;
         double rate;
         Scanner sc = new Scanner(System.in);

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class matrix_addition {
 
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         int[][] mat1=new int[3][3];
         int[][] mat2=new int[3][3];

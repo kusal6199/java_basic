@@ -11,7 +11,7 @@ public class DemoFinal {
         newValue=750.23;
     }
   
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         DemoFinal d= new DemoFinal();
         d.displayPI();
     }

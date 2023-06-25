@@ -1,7 +1,7 @@
 // import Outer.Inner;
 
 public class TestOuter {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         // Inner obj = new Inner();illigal 
         // obj.showX();
         Outer objOuter =new Outer();

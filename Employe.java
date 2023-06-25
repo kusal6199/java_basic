@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Employe{
    int emp_id;
-   String full_name;
+   _String full_name;
    double salary;  
    Scanner sc = new Scanner(System.in);
    void read_data(){

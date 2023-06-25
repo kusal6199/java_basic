@@ -1,6 +1,6 @@
 
 public class TestFinalKeyword {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         
         FinalKeyword obj = new FinalKeyword();
         obj.getinfo();

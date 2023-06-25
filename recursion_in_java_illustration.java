@@ -8,7 +8,7 @@ public class recursion_in_java_illustration {
         System.out.println(n);
         recursion(n-1);
     }
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter a number to print upto zero: ");
         int n=sc.nextInt();

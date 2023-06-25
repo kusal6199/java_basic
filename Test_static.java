@@ -1,5 +1,5 @@
 public class Test_static {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         static_practice s1= new static_practice();
        
         static_practice s2= new static_practice();

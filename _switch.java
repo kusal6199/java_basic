@@ -1,6 +1,6 @@
 import java.util.*;
 public class _switch {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.print("enter number from 1-3 only: ");
         int num=sc.nextInt();

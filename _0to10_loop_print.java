@@ -1,6 +1,6 @@
 import java.util.*;
 public class _0to10_loop_print{
-    public static void main(String args[]){
+    public static void main(_String args[]){
         Scanner sc=new Scanner(System.in);
         for(int i=0;i<=10;i++){
         System.out.println(i);

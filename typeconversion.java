@@ -1,7 +1,7 @@
 import java.net.SocketPermission;
 
 public class typeconversion {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         byte b;
         int i =257;
         double d = 323.142;

@@ -1,7 +1,7 @@
 import java.util.*;
 public class Book {
     int book_id;
-    String title;
+    _String title;
     double price;
     Scanner sc =new Scanner(System.in);
 

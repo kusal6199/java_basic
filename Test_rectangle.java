@@ -1,7 +1,7 @@
 
 import java.util.*;
 public class Test_rectangle {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Line_rect p1 = new Line_rect();
         Line_rect p2 = new Line_rect();
         Line_rect p3 = new Line_rect();

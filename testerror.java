@@ -1,9 +1,9 @@
 public class testerror {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         int x=20;
-        String gender="Male";
+        _String gender="Male";
         double salary=85830.45;
-        String mycollege ="Orchid International";
+        _String mycollege ="Orchid International";
         System.out.println("kushal kadel");
         System.out.println("kushal kadel "); 
         System.out.println("kushal kadel");

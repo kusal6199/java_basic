@@ -1,6 +1,6 @@
 import java.util.*;
 public class switchh {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
         int menu;
         double p,b,h;

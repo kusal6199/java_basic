@@ -1,10 +1,10 @@
 import java.util.*;
 public class string_concatenation {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc = new Scanner(System.in);
-        String firstName="kushal";
-        String lastName="kandel";
-        String fullName=firstName+" "+lastName;
+        _String firstName="kushal";
+        _String lastName="kandel";
+        _String fullName=firstName+" "+lastName;
         System.out.println(fullName);
 
         sc.close();

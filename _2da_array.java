@@ -1,6 +1,6 @@
 import java.util.*;
 public class _2da_array {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc=new Scanner(System.in);
         int i,j;
         int[][] mat1=new int[3][3];

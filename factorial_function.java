@@ -15,7 +15,7 @@ public class factorial_function {
         System.out.println("the factorila is "+ fact);
         
     }
-    public static void main(String args[]){
+    public static void main(_String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("enter number to find factorial: ");
         int n=sc.nextInt();

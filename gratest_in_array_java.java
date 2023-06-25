@@ -2,7 +2,7 @@
 
 import java.util.*;
 public class gratest_in_array_java {
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         Scanner sc =new Scanner(System.in);
         int i;
         System.out.print("Enter no. of elements you want in array:");

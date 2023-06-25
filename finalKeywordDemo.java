@@ -12,7 +12,7 @@ class finalKeywordDemo {
         return unit*rate;
     }
 
-    public static void main(String[] args) {
+    public static void main(_String[] args) {
         finalKeywordDemo obj = new finalKeywordDemo();
         obj.get_unit();
         System.out.println("the total cost is "+ obj.calculate_cost());
